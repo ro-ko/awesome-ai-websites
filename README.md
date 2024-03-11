@@ -1,5 +1,4 @@
-# AI tools
-My personal tips for ai research
+## **My personal tips for ai research**
 
 1. [Research & Retreival](#research--retreival)
 2. [AI rankings](#ai-rankings)
