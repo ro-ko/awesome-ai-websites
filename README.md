@@ -1,6 +1,9 @@
 # AI tools
 My personal tips for ai research
 
+1. [Research & Retreival](#research--retreival)
+2. [AI rankings](#ai-rankings)
+
 # Research & Retreival
 ## 1. Google scholar
 URL: https://scholar.google.com/
