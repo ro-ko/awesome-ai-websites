@@ -5,7 +5,7 @@
 **2. [AI rankings](#ai-rankings)**  
 **3. [Research blog](#research-blog)**  
 **4. [Github repositories](#github-repositories)**  
-**5. [Class Course](#class-course)**  
+**5. [Graduate Course](#graduate-course)**  
 
 # Retreival
 **1. Google scholar**  
@@ -245,7 +245,7 @@ URL: https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e
 URl: https://github.com/ByteByteGoHq/system-design-101  
 - System Design tidbits to help you prepare for system design interviews by explaining complex systems using visuals and simple terms.
 
-# Class course
+# Graduate course
 **1. 11-777 MMML**  
 URL: https://cmu-multicomp-lab.github.io/mmml-course/fall2023/
 - multimodal machine learning (fall2023)  
