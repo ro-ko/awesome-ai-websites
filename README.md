@@ -1,7 +1,9 @@
 ## **My personal tips for ai research**
 
-1. [Research & Retreival](#research--retreival)
-2. [AI rankings](#ai-rankings)
+**[ TOC ]**  
+**1. [Retreival](#retreival)**  
+**2. [AI rankings](#ai-rankings)**  
+**3. [Research blog](#research-blog)**
 
 # Retreival
 **1. Google scholar**  
