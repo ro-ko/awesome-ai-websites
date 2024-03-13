@@ -247,4 +247,13 @@ URl: https://github.com/ByteByteGoHq/system-design-101
 
 # Class course
 **1. 11-777 MMML**  
-URL: https://cmu-multicomp-lab.github.io/mmml-course/fall2020/readings/
+URL: https://cmu-multicomp-lab.github.io/mmml-course/fall2023/
+- multimodal machine learning (fall2023)  
+
+URL: https://cmu-multicomp-lab.github.io/mmml-tutorial/icml2023/
+- multimodal tutorial (2023)
+
+**2. 11-877 AMML**  
+URL: https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2024/
+- advanced topics in multimodal machine learning (spring2024)
+
