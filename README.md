@@ -5,6 +5,7 @@
 **2. [AI rankings](#ai-rankings)**  
 **3. [Research blog](#research-blog)**
 
+
 # Retreival
 **1. Google scholar**  
 URL: https://scholar.google.com/
@@ -18,6 +19,7 @@ URL: https://scholar.google.com/
 
 **2. Scholar Inbox**  
 URL: https://www.scholar-inbox.com/  
+
 Personalized ai papers recommendation website
 
 **3. SCISCPACE**  
@@ -25,6 +27,7 @@ URL: https://typeset.io/
 
 **4. SEMANTIC SCHOLAR**  
 URL: https://www.semanticscholar.org/  
+
 Goolge scholar + ai reading assitant
 
 **5. Hugginface daily papers**  
@@ -53,6 +56,9 @@ URL: https://www.usnews.com/best-graduate-schools/top-science-schools/artificial
 
 **3. Reseach.com**  
 URL: https://research.com/
+
+**4. Conference rank**  
+URL: http://www.conferenceranks.com/#
 
 
 # Research blog
@@ -131,7 +137,7 @@ URL: https://www.mixedbread.ai/blog
 ### Personal blog
 
 **1. Distilled AI**  
-URL: https://aman.ai/papers/#noise-contrastive-estimation-a-new-estimation-principle-for-unnormalized-statistical-models  
+URL: https://aman.ai/
 
 -----------
 
