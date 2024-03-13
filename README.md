@@ -3,8 +3,8 @@
 1. [Research & Retreival](#research--retreival)
 2. [AI rankings](#ai-rankings)
 
-# Research & Retreival
-## 1. Google scholar
+# Retreival
+### 1. Google scholar
 URL: https://scholar.google.com/
 
 1-1. Advanced search  
@@ -13,39 +13,46 @@ URL: https://scholar.google.com/
 
 1-2. Alerts
 
-## 2. Scholar Inbox
+### 2. Scholar Inbox
 URL: https://www.scholar-inbox.com/  
 Personalized ai papers recommendation website.
 
-## 4. SEMANTIC SCHOLAR
+### 3. SCISCPACE
+URL: https://typeset.io/
+
+### 4. SEMANTIC SCHOLAR
 URL: https://www.semanticscholar.org/  
 Goolge scholar + ai reading assitant
 
-## 5. Hugginface daily papers
+### 5. Hugginface daily papers
 URL: https://huggingface.co/papers
 
-## 6. Paper Digest
+### 6. Paper Digest
 URL: https://www.paperdigest.org/
 
-## 7. Scite
+### 7. Scite
 URL: https://scite.ai/
 
-## 8. Deep Learning Monitor
+### 8. Deep Learning Monitor
 URL: https://deeplearn.org/
 
-## 9. Distilled AI
+### 9. Distilled AI
 URL: https://aman.ai/papers/#noise-contrastive-estimation-a-new-estimation-principle-for-unnormalized-statistical-models  
 
-## 10. Paperswithcode
+### 10. Paperswithcode
 URL: https://paperswithcode.com/sota
+
 
 # AI rankings
 
-## 1. AIRankings
+### 1. AIRankings
 URL: https://airankings.org/
 
-## 2. U.S. News & World Report
+### 2. U.S. News & World Report
 URL: https://www.usnews.com/best-graduate-schools/top-science-schools/artificial-intelligence-rankings
 
-## 3. Reseach.com
+### 3. Reseach.com
 URL: https://research.com/
+
+
+# Research blog
