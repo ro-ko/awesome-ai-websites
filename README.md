@@ -335,6 +335,11 @@ URL: https://web.stanford.edu/class/cs224u/
 URL: https://cs224r.stanford.edu/
 - CS 224R Deep Reinforcement Learning (spring2023)
 
+**14. CS248I**  
+URL: http://cs348i.stanford.edu/  
+- CS348I: Computer Graphics in the Era of AI(winter2024)
+
+
 # AI in Korea
 
 ### Company blog
