@@ -373,8 +373,9 @@ URL: https://friendli.ai/blog/
 **11. AI Landsacape**  
 URL: https://ailandscape.net/  
 
-- (KOR) 미래가치가 더욱 기대되는 Emerging 기업으로서 AI 기술을 기반으로 다양한 산업(X)과의 융합을 통해 미래혁신을 주도할 100대 국내 기업
 - (EN) As an emerging company with greater future value, one of the top 100 domestic companies that will lead future innovation through convergence with various industries (X) based on AI technology
+- (KOR) 미래가치가 더욱 기대되는 Emerging 기업으로서 AI 기술을 기반으로 다양한 산업(X)과의 융합을 통해 미래혁신을 주도할 100대 국내 기업
+
 
 ----------
 
