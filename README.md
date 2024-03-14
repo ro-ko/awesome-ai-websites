@@ -39,8 +39,9 @@ It is just my routine to read paper.
 
 There is a well-explained tutorial video here.
 
-<iframe style="position: absolute; width:100%; height:100%;" width="1250" height="703" src="https://www.youtube.com/embed/ReIZgbCwfg0" title="How I Read AI Papers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<div>
+    <iframe style="position: absolute; width:100%; height:100%;" width="1250" height="703" src="https://www.youtube.com/embed/ReIZgbCwfg0" title="How I Read AI Papers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 # Retreival
 **1. Google scholar**  
