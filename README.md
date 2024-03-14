@@ -6,6 +6,7 @@
 **3. [Research blog](#research-blog)**  
 **4. [Github repositories](#github-repositories)**  
 **5. [Graduate Course](#graduate-course)**  
+**6. [AI in korea](#ai-in-korea)**  
 
 # Retreival
 **1. Google scholar**  
@@ -257,3 +258,43 @@ URL: https://cmu-multicomp-lab.github.io/mmml-tutorial/icml2023/
 URL: https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2024/
 - advanced topics in multimodal machine learning (spring2024)
 
+**3. cs231n**  
+URL: http://cs231n.stanford.edu/schedule.html  
+- CS231n: Deep Learning for Computer Vision (spring2023)  
+
+
+# AI in Korea
+
+### Company blog
+
+**1. LG AI research**  
+URL: https://www.lgresearch.ai/blog
+
+**2. Kakaobrain**  
+URL: https://blog.kakaobrain.com/category/news/tech?tab  
+
+**3. HyperCLOVA**  
+URL: https://engineering.clova.ai/  
+URL: https://clova.ai/en/research/research-areas.html  
+
+**4. Samasung research**  
+URL: https://research.samsung.com/blog
+
+**5. Upstage**  
+URL: https://en.content.upstage.ai/blog  
+
+**6. Riiid**  
+URL: https://riiid.com/research
+
+**7. Scatterlab**  
+URL: https://tech.scatterlab.co.kr/
+
+**8. Wrtn**  
+URL: https://wrtn.io/blog/#blogmenu
+
+**9. maum ai**  
+URL: https://maum-ai.github.io/
+
+----------
+
+### Personal blog
