@@ -258,10 +258,50 @@ URL: https://cmu-multicomp-lab.github.io/mmml-tutorial/icml2023/
 URL: https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2024/
 - advanced topics in multimodal machine learning (spring2024)
 
-**3. cs231n**  
+**3. CS231N**  
 URL: http://cs231n.stanford.edu/schedule.html  
 - CS231n: Deep Learning for Computer Vision (spring2023)  
 
+**4. CS224N**  
+URL: https://web.stanford.edu/class/cs224n/index.html
+- CS224N: Natural Language Processing with Deep Learning (winter2024)
+
+**5. CS234**  
+URL: https://web.stanford.edu/class/cs234/  
+- CS234: Reinforcement Learning (Winter2023)
+
+**6. ML systems seminar**  
+URL: https://mlsys.stanford.edu/
+- Stanford MLSys Seminar
+
+**7. Seminar on Artificial Intelligence Safety**  
+URL: https://cs521.stanford.edu/speaker-schedule-2023/
+- Seminar on AI Safety
+
+**8. CS329T**  
+URL: https://web.stanford.edu/class/cs329t/syllabus.html
+- CS 329T: Trustworthy Machine Learning (fall2023)
+- Large Language Models and Applications
+
+**9. CS329S**  
+URL: https://stanford-cs329s.github.io/
+- CS 329S: Machine Learning Systems Design (winter2022)
+
+**10. CS324**  
+URL: https://stanford-cs324.github.io/winter2022/
+- CS324 - Large Language Models (winter2023)
+
+**11. CS224W**  
+URL: https://web.stanford.edu/class/cs224w/
+- CS224W: Machine Learning with Graphs (fall2023)
+
+**12. CS224U**  
+URL: https://web.stanford.edu/class/cs224u/
+- CS224U: Natural Language Understanding 
+
+**13. CS224R**  
+URL: https://cs224r.stanford.edu/
+- CS 224R Deep Reinforcement Learning (spring2023)
 
 # AI in Korea
 
@@ -295,6 +335,17 @@ URL: https://wrtn.io/blog/#blogmenu
 **9. maum ai**  
 URL: https://maum-ai.github.io/
 
+**10. FreindliAI**  
+URL: https://friendli.ai/blog/
+
+**11. AI Landsacape**  
+URL: https://ailandscape.net/  
+
+- 미래가치가 더욱 기대되는 Emerging 기업으로서 AI 기술을 기반으로 다양한 산업(X)과의 융합을 통해 미래혁신을 주도할 100대 국내 기업
+- As an emerging company with greater future value, one of the top 100 domestic companies that will lead future innovation through convergence with various industries (X) based on AI technology
+
 ----------
 
 ### Personal blog
+
+(Not now..please wait..)
