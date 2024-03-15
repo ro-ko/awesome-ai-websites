@@ -241,6 +241,13 @@ URL: https://blog.eleuther.ai/
 **5. LMSYSORG BLOG**  
 URL: https://lmsys.org/blog/
 
+----------
+
+### Graduate AI Lab blog
+
+**1. Stanford AI Lab blog**  
+URL: https://ai.stanford.edu/blog/  
+
 
 # Github repositories
 
@@ -279,16 +286,13 @@ URl: https://github.com/ByteByteGoHq/system-design-101
 - System Design tidbits to help you prepare for system design interviews by explaining complex systems using visuals and simple terms.
 
 # Graduate course
-**1. 11-777 MMML**  
-URL: https://cmu-multicomp-lab.github.io/mmml-course/fall2023/
-- multimodal machine learning (fall2023)  
+**1. CS348I**  
+URL: http://cs348i.stanford.edu/  
+- CS348I: Computer Graphics in the Era of AI(winter2024)
 
-URL: https://cmu-multicomp-lab.github.io/mmml-tutorial/icml2023/
-- multimodal tutorial (2023)
-
-**2. 11-877 AMML**  
-URL: https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2024/
-- advanced topics in multimodal machine learning (spring2024)
+**2. CS224R**  
+URL: https://cs224r.stanford.edu/
+- CS 224R Deep Reinforcement Learning (spring2023)
 
 **3. CS231N**  
 URL: http://cs231n.stanford.edu/schedule.html  
@@ -303,11 +307,11 @@ URL: https://web.stanford.edu/class/cs234/
 - CS234: Reinforcement Learning (Winter2023)
 
 **6. ML systems seminar**  
-URL: https://mlsys.stanford.edu/
+URL: https://mlsys.stanford.edu/ (2023)
 - Stanford MLSys Seminar
 
 **7. Seminar on Artificial Intelligence Safety**  
-URL: https://cs521.stanford.edu/speaker-schedule-2023/
+URL: https://cs521.stanford.edu/speaker-schedule-2023/ (spring2022)
 - Seminar on AI Safety
 
 **8. CS329T**  
@@ -329,16 +333,38 @@ URL: https://web.stanford.edu/class/cs224w/
 
 **12. CS224U**  
 URL: https://web.stanford.edu/class/cs224u/
-- CS224U: Natural Language Understanding 
+- CS224U: Natural Language Understanding (2023)
 
-**13. CS224R**  
-URL: https://cs224r.stanford.edu/
-- CS 224R Deep Reinforcement Learning (spring2023)
+**13. 11-877 AMML**  
+URL: https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2024/
+- advanced topics in multimodal machine learning (spring2024)
 
-**14. CS248I**  
-URL: http://cs348i.stanford.edu/  
-- CS348I: Computer Graphics in the Era of AI(winter2024)
+**14. 11-777 MMML**  
+URL: https://cmu-multicomp-lab.github.io/mmml-course/fall2023/
+- multimodal machine learning (fall2023)  
 
+URL: https://cmu-multicomp-lab.github.io/mmml-tutorial/icml2023/
+- multimodal tutorial (2023)
+
+**15. 11-695 AI Engineering**  
+URL: https://mlip-cmu.github.io/s2024/  
+URL: https://github.com/mlip-cmu/s2024
+- CMU course that covers how to build, deploy, assure, and maintain software products with machine-learned models
+
+**16. 10-601 Introduction to Machine Learning**
+URL: https://www.cs.cmu.edu/~mgormley/courses/10601/schedule.html
+
+**17. 10-605: ML with Large Datasets**
+URL: https://10605.github.io/
+
+**18. 11-611 Natural Language Processing S21**  
+URL: http://demo.clab.cs.cmu.edu/NLP/
+
+**19. 11-785 Introduction to Deep Learning**  
+URL: https://deeplearning.cs.cmu.edu/S24/index.html
+
+**20. 11-755 Machine Learning for Signal Processing**  
+URL: https://mlsp2023.cs.cmu.edu/
 
 # AI in Korea
 
