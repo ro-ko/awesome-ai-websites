@@ -32,7 +32,7 @@ But if you read several papers, cost more than 3 hours.
 Use the state-of-art of deep learning
 1. twitter
 2. ML subreddit
-3. ML/DL conference : NIPS/ICML/ICPR/AAAI/KDD/IJICAI
+3. ML/DL conference : NIPS/ICML/ICLR/AAAI/KDD/IJICAI ...
 4. Some community or Group
 
 It is just my routine to read paper.
@@ -311,39 +311,39 @@ URL: https://mlsys.stanford.edu/ (2023)
 - Stanford MLSys Seminar
 
 **7. Seminar on Artificial Intelligence Safety**  
-URL: https://cs521.stanford.edu/speaker-schedule-2023/ (spring2022)
+URL: https://cs521.stanford.edu/speaker-schedule-2023/ (spring2022)  
 - Seminar on AI Safety
 
 **8. CS329T**  
-URL: https://web.stanford.edu/class/cs329t/syllabus.html
+URL: https://web.stanford.edu/class/cs329t/syllabus.html  
 - CS 329T: Trustworthy Machine Learning (fall2023)
 - Large Language Models and Applications
 
 **9. CS329S**  
-URL: https://stanford-cs329s.github.io/
+URL: https://stanford-cs329s.github.io/  
 - CS 329S: Machine Learning Systems Design (winter2022)
 
 **10. CS324**  
-URL: https://stanford-cs324.github.io/winter2022/
+URL: https://stanford-cs324.github.io/winter2022/  
 - CS324 - Large Language Models (winter2023)
 
 **11. CS224W**  
-URL: https://web.stanford.edu/class/cs224w/
+URL: https://web.stanford.edu/class/cs224w/  
 - CS224W: Machine Learning with Graphs (fall2023)
 
 **12. CS224U**  
-URL: https://web.stanford.edu/class/cs224u/
+URL: https://web.stanford.edu/class/cs224u/  
 - CS224U: Natural Language Understanding (2023)
 
 **13. 11-877 AMML**  
-URL: https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2024/
+URL: https://cmu-multicomp-lab.github.io/adv-mmml-course/spring2024/  
 - advanced topics in multimodal machine learning (spring2024)
 
 **14. 11-777 MMML**  
-URL: https://cmu-multicomp-lab.github.io/mmml-course/fall2023/
+URL: https://cmu-multicomp-lab.github.io/mmml-course/fall2023/  
 - multimodal machine learning (fall2023)  
 
-URL: https://cmu-multicomp-lab.github.io/mmml-tutorial/icml2023/
+URL: https://cmu-multicomp-lab.github.io/mmml-tutorial/icml2023/  
 - multimodal tutorial (2023)
 
 **15. 11-695 AI Engineering**  
@@ -351,10 +351,10 @@ URL: https://mlip-cmu.github.io/s2024/
 URL: https://github.com/mlip-cmu/s2024
 - CMU course that covers how to build, deploy, assure, and maintain software products with machine-learned models
 
-**16. 10-601 Introduction to Machine Learning**
+**16. 10-601 Introduction to Machine Learning**  
 URL: https://www.cs.cmu.edu/~mgormley/courses/10601/schedule.html
 
-**17. 10-605: ML with Large Datasets**
+**17. 10-605: ML with Large Datasets**  
 URL: https://10605.github.io/
 
 **18. 11-611 Natural Language Processing S21**  
