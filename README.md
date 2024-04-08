@@ -430,9 +430,3 @@ URL: https://ailandscape.net/
 
 (Not now..please wait..)
 
-<details>
-<summary>Personal blog</summary>
-
-# AI in Korea
-</details>
-
