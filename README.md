@@ -1,12 +1,12 @@
-## **My personal tips for ai research**
+## **awesome -AI-materials**
 
-**[ TOC ]**  
-**1. [Retreival](#retreival)**  
-**2. [AI rankings](#ai-rankings)**  
-**3. [Research blog](#research-blog)**  
-**4. [Github repositories](#github-repositories)**  
-**5. [Graduate Course](#graduate-course)**  
-**6. [AI in korea](#ai-in-korea)**  
+### Main contents
+- Research Paper 
+- AI rankings  
+- Research blog  
+- Github repositories  
+- Graduate Course  
+- Korea AI field  
 
 
 ## How to read Paper?
@@ -38,9 +38,13 @@ Use the state-of-art of deep learning
 It is just my routine to read paper.
 
 There is a well-explained tutorial video here.  
-**[https://youtu.be/ReIZgbCwfg0]**
+**[Youtube Link](https://youtu.be/ReIZgbCwfg0)**
 
-# Retreival
+----------------
+
+<details>
+<summary>Research Paper</summary>
+
 **1. Google scholar**  
 URL: https://scholar.google.com/  
 - Advanced search  
@@ -88,8 +92,10 @@ URL: https://42papers.com/
 URL: https://www.connectedpapers.com/
 - Connected Papers is a visual tool that helps researchers find relevant papers by creating graphs based on paper similarity, not just citations
 - It uses Co-citation and Bibliographic Coupling as metrics, arranges papers in a Force Directed Graph for visual clustering, and is linked to the Semantic Scholar Paper Corpus
+</details>
 
-# AI rankings
+<details>
+<summary>AI rankings</summary>
 
 **1. AIRankings**  
 URL: https://airankings.org/
@@ -102,9 +108,10 @@ URL: https://research.com/
 
 **4. Conference rank**  
 URL: http://www.conferenceranks.com/#
+</details>
 
-
-# Research blog
+<details>
+<summary>Research blog</summary>
 
 ### Company blog
 **1. Meta AI**  
@@ -247,9 +254,11 @@ URL: https://lmsys.org/blog/
 
 **1. Stanford AI Lab blog**  
 URL: https://ai.stanford.edu/blog/  
+</details>
 
 
-# Github repositories
+<details>
+<summary>Github repositories</summary>
 
 **1. awesome-nlp**  
 URL: https://github.com/keon/awesome-nlp
@@ -284,8 +293,11 @@ URL: https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e
 **9. system-design-101**  
 URl: https://github.com/ByteByteGoHq/system-design-101  
 - System Design tidbits to help you prepare for system design interviews by explaining complex systems using visuals and simple terms.
+</details>
 
-# Graduate course
+<details>
+<summary>Graduate course</summary>
+
 **1. CS348I**  
 URL: http://cs348i.stanford.edu/  
 - CS348I: Computer Graphics in the Era of AI(winter2024)
@@ -365,8 +377,11 @@ URL: https://deeplearning.cs.cmu.edu/S24/index.html
 
 **20. 11-755 Machine Learning for Signal Processing**  
 URL: https://mlsp2023.cs.cmu.edu/
+</details>
 
-# AI in Korea
+
+<details>
+<summary>Korea AI field</summary>
 
 ### Company blog
 
@@ -407,9 +422,17 @@ URL: https://ailandscape.net/
 - (EN) As an emerging company with greater future value, one of the top 100 domestic companies that will lead future innovation through convergence with various industries (X) based on AI technology
 - (KOR) 미래가치가 더욱 기대되는 Emerging 기업으로서 AI 기술을 기반으로 다양한 산업(X)과의 융합을 통해 미래혁신을 주도할 100대 국내 기업
 
+</details>
 
 ----------
 
 ### Personal blog
 
 (Not now..please wait..)
+
+<details>
+<summary>Personal blog</summary>
+
+# AI in Korea
+</details>
+
