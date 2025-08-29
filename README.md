@@ -15,7 +15,7 @@
 3. Skip equation (If you want or can understand)
 4. Last, read the whole thing except for the parts you don't understand.
 
-Now anser the following Questions!
+Now anwser the following Questions!
 
 1. What is author want to do?
 2. What is important part of this research?
